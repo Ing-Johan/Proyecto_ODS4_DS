@@ -1,2 +1,49 @@
-# Proyecto_ODS4_DS
-Este proyecto es desarrollado como método de solucionara una de las problemáticas que hay en el mundo, en este caso relacionado con el objetivo de desarrollo sostenible número 4 que establece la Organización de Naciones Unidas (Educación de Calidad para todos). 
+# 🚀 GlobalEd
+
+## ▶️ Cómo ejecutar el proyecto
+
+1. Descarga o clona el repositorio:
+
+```bash
+git clone https://github.com/tu-usuario/tu-repo.git
+```
+
+2. Entra a la carpeta del proyecto (donde está `manage.py`):
+
+```bash
+cd tu-repo
+```
+
+3. Abre una consola en esa carpeta e instala dependencias:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Abre el entorno virtual:
+
+ ```bash
+venv\Scripts\activate
+```
+
+5. Ejecuta las migraciones:
+
+```bash
+python manage.py migrate
+```
+
+6. Inicia el servidor:
+
+```bash
+python manage.py runserver
+```
+
+7. Abre en el navegador:
+
+```
+http://127.0.0.1:8000/
+```
+
+---
+
+Listo. Con eso el proyecto debería correr sin configuración adicional.
