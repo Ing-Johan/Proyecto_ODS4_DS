@@ -2,11 +2,9 @@
 
 ## ▶️ Cómo ejecutar el proyecto
 
-1. Descarga o clona el repositorio:
+1. Descarga el archivo .zip que ves en el repositorio:
 
-```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-```
+`globaled.zip`
 
 2. Entra a la carpeta del proyecto (donde está `manage.py`):
 
